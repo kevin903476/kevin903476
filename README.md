@@ -6,8 +6,19 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpwZHFyYWl0MXYwb3FvM293YW5tNGFqNTdhNXo0cjYzdmVjcm5weCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kevin903476&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin903476&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -108,8 +119,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouzan/maurodesouzan/output/snake.svg" alt="Snake animation" />
-
-###
