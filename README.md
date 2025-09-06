@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate programmer from Costa Rica</p>
+<p align="center">A passionate programmer from Costa Rica</p>
 
 ###
 
