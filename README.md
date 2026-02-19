@@ -1,106 +1,147 @@
-<div align="center">
+# Kevin Juárez
 
-# 🌟 Welcome to Kevin Juárez's Profile 🌟
-
-<p><em>Full‑stack developer focused on building efficient, scalable and user‑friendly web applications.</em></p>
-
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
-
-</div>
-
-<hr>
+```typescript
+const profile = {
+  name: "Kevin Juárez",
+  bio: "Full‑stack developer focused on building efficient, scalable and user‑friendly web applications.",
+  currentWork: "Freelance full‑stack developer working on web projects and continuously improving my technical skills.",
+  learning: "Improving my full‑stack skills, learning new frameworks, and strengthening best practices in backend and frontend development.",
+  interests: "Web development,open‑source projects,clean architecture,UI/UX,and continuous learning.",
+  skills: [
+    "React",
+    "Tailwind",
+    "CSS3",
+    "Bootstrap",
+    "Material UI",
+    "Node.js",
+    "Express",
+    "Spring",
+    "NestJS",
+    "MongoDB",
+    "MySQL",
+    "PostgreSQL",
+    "Docker",
+    "Azure",
+    "React Native",
+    "Kotlin",
+    "Android",
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Java",
+    "PHP",
+    "Go",
+    "C#"
+  ],
+}
+```
 
 ## 🔭 I'm currently working on
 
-<div align="center"><p>Freelance full‑stack developer working on web projects and continuously improving my technical skills.</p></div>
+Freelance full‑stack developer working on web projects and continuously improving my technical skills.
 
 ## 🌱 I'm currently learning
 
-<div align="center"><p>Improving my full‑stack skills, learning new frameworks, and strengthening best practices in backend and frontend development.</p></div>
+Improving my full‑stack skills, learning new frameworks, and strengthening best practices in backend and frontend development.
 
 ## 👀 I'm interested in
 
-<div align="center"><p>Web development, open‑source projects, clean architecture, UI/UX, and continuous learning.</p></div>
+Web development, open‑source projects, clean architecture, UI/UX, and continuous learning.
 
 ## 🏆 GitHub Trophies
 
 <!-- ⚠️ Important: Replace 'kevin903476' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevin903476&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kevin903476&theme=onedark&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'kevin903476' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin903476&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin903476&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'kevin903476' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin903476&layout=compact&langs_count=10&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin903476&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'kevin903476' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin903476&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin903476&theme=dark&hide_border=false" />
 </div>
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Material UI-05122A?style=for-the-badge&color=ff69b4">
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-NestJS-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1">
-
-### 🚀 DevOps
-
-<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&color=9370db">
-
-### 📱 Mobile
-
-<img src="https://img.shields.io/badge/-React Native-05122A?style=for-the-badge&color=3CB371"> <img src="https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&color=3CB371"> <img src="https://img.shields.io/badge/-Android-05122A?style=for-the-badge&color=3CB371">
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Go-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C#-05122A?style=for-the-badge&color=FFA500">
-
-</div>
+```json
+{
+  "frontend": [
+    "React",
+    "Tailwind",
+    "CSS3",
+    "Bootstrap",
+    "Material UI"
+  ],
+  "backend": [
+    "Node.js",
+    "Express",
+    "Spring",
+    "NestJS",
+    "MongoDB",
+    "MySQL",
+    "PostgreSQL"
+  ],
+  "devops": [
+    "Docker",
+    "Azure"
+  ],
+  "mobile": [
+    "React Native",
+    "Kotlin",
+    "Android"
+  ],
+  "languages": [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Java",
+    "PHP",
+    "Go",
+    "C#"
+  ]
+}
+```
 
 ## 🌐 Socials
 
-<div align="center">
+```javascript
+const socials = {
+  github: "kevin903476",
+  linkedin: "kevinjosejuarezlopez",
+}
+```
 
-<a href="https://github.com/kevin903476"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="www.linkedin.com/in/kevinjosejuarezlopez"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
-
+<div>
+<a href="www.linkedin.com/in/kevinjosejuarezlopez"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/kevin903476"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> 
 </div>
 
 ## 📫 How to reach me
 
-<div align="center">
+```javascript
+const contact = {
+  email: "kevin903476@gmail.com",
+  phone: "+(506) 5015-2214",
+}
+```
 
-**Email:** kevin903476@gmail.com
-**Phone:** +(506) 5015-2214
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
 
-</div>
-
-<div align="center">
-
-<!-- ⚠️ Important: Replace 'kevin903476' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=kevin903476&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-<img src="https://img.shields.io/github/followers/kevin903476?style=for-the-badge&color=ff69b4" alt="Followers"/>
-
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
-
-</div>
+process.exit(0); // Until next time 👋
+```
