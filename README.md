@@ -1,121 +1,147 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
+# Kevin Juárez
 
-###
+```typescript
+const profile = {
+  name: "Kevin Juárez",
+  bio: "Full‑stack developer focused on building efficient, scalable and user‑friendly web applications.",
+  currentWork: "Freelance full‑stack developer working on web projects and continuously improving my technical skills.",
+  learning: "Improving my full‑stack skills, learning new frameworks, and strengthening best practices in backend and frontend development.",
+  interests: "Web development,open‑source projects,clean architecture,UI/UX,and continuous learning.",
+  skills: [
+    "React",
+    "Tailwind",
+    "CSS3",
+    "Bootstrap",
+    "Material UI",
+    "Node.js",
+    "Express",
+    "Spring",
+    "NestJS",
+    "MongoDB",
+    "MySQL",
+    "PostgreSQL",
+    "Docker",
+    "Azure",
+    "React Native",
+    "Kotlin",
+    "Android",
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Java",
+    "PHP",
+    "Go",
+    "C#"
+  ],
+}
+```
 
-<p align="center">A passionate programmer from Costa Rica</p>
+## 🔭 I'm currently working on
 
-###
+Freelance full‑stack developer working on web projects and continuously improving my technical skills.
 
-<br clear="both">
+## 🌱 I'm currently learning
 
+Improving my full‑stack skills, learning new frameworks, and strengthening best practices in backend and frontend development.
+
+## 👀 I'm interested in
+
+Web development, open‑source projects, clean architecture, UI/UX, and continuous learning.
+
+## 🏆 GitHub Trophies
+
+<!-- ⚠️ Important: Replace 'kevin903476' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kevin903476&theme=onedark&column=7&margin-w=15&margin-h=15" />
+</p>
+
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'kevin903476' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpwZHFyYWl0MXYwb3FvM293YW5tNGFqNTdhNXo0cjYzdmVjcm5weCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin903476&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-###
+## 🔝 Most Used Languages
 
-<br clear="both">
-
+<!-- ⚠️ Important: Replace 'kevin903476' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kevin903476&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin903476&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin903476&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
-###
+## 🔥 Contribution Streak
 
-<br clear="both">
-
-<p align="left">💻 Languages and Tools:</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<!-- ⚠️ Important: Replace 'kevin903476' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin903476&theme=dark&hide_border=false" />
 </div>
 
-###
+## 💻 Tech Stack
 
-<p align="left">✉️Contact me:</p>
+```json
+{
+  "frontend": [
+    "React",
+    "Tailwind",
+    "CSS3",
+    "Bootstrap",
+    "Material UI"
+  ],
+  "backend": [
+    "Node.js",
+    "Express",
+    "Spring",
+    "NestJS",
+    "MongoDB",
+    "MySQL",
+    "PostgreSQL"
+  ],
+  "devops": [
+    "Docker",
+    "Azure"
+  ],
+  "mobile": [
+    "React Native",
+    "Kotlin",
+    "Android"
+  ],
+  "languages": [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Java",
+    "PHP",
+    "Go",
+    "C#"
+  ]
+}
+```
 
-###
+## 🌐 Socials
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/kevinjosejuarezlopez/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="kevin_bomboclat" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="Kevin Juárez López" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="@kevinbomboclat" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="@kevinbomboclat" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
+```javascript
+const socials = {
+  github: "kevin903476",
+  linkedin: "kevinjosejuarezlopez",
+}
+```
+
+<div>
+<a href="www.linkedin.com/in/kevinjosejuarezlopez"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/kevin903476"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> 
 </div>
 
+## 📫 How to reach me
+
+```javascript
+const contact = {
+  email: "kevin903476@gmail.com",
+  phone: "+(506) 5015-2214",
+}
+```
+
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
+
+process.exit(0); // Until next time 👋
+```
