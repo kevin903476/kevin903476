@@ -52,21 +52,23 @@ Web development, open‑source projects, clean architecture, UI/UX, and continuo
 
 <!-- ⚠️ Important: Replace 'kevin903476' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=kevin903476&theme=onedark&column=7&margin-w=15&margin-h=15](https://github-profile-trophy-fork-two.vercel.app/?username=kevin903476&theme=onedark)"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=kevin903476&theme=onedark&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'kevin903476' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=kevin903476&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats-sigma-five.vercel.app/api?username=kevin903476&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400)"/>
+  <img height="180em" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=kevin903476&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400" />
 </div>
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'kevin903476' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=kevin903476&layout=compact&langs_count=10&theme=dark](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kevin903476&layout=compact&langs_count=10&theme=dark&cache_seconds=86400)"/>
+  <img height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kevin903476&layout=compact&langs_count=10&theme=dark&cache_seconds=86400" />
 </div>
 
 ## 🔥 Contribution Streak
