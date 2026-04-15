@@ -53,14 +53,14 @@ Web development, open‑source projects, clean architecture, UI/UX, and continuo
 
 <div align="center">
   <img height="180em" 
-       src="https://github-readme-stats-eight-sepia-29.vercel.app/api?username=kevin903476&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400" />
+       src="https://github-readme-stats-eight-sepia-29.vercel.app/api?username=kevin903476&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=60" />
 </div>
 
 ## Most Used Languages
 
 <div align="center">
   <img height="180em" 
-       src="https://github-readme-stats-eight-sepia-29.vercel.app/api/top-langs/?username=kevin903476&layout=compact&langs_count=10&theme=dark&cache_seconds=86400" />
+       src="https://github-readme-stats-eight-sepia-29.vercel.app/api/top-langs/?username=kevin903476&layout=compact&langs_count=10&theme=dark&cache_seconds=60" />
 </div>
 
 ## Contribution Streak
