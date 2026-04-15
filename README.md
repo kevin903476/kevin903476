@@ -48,11 +48,6 @@ Improving my full‑stack skills, learning new frameworks, and strengthening bes
 
 Web development, open‑source projects, clean architecture, UI/UX, and continuous learning.
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevin903476&theme=onedark&column=7&margin-w=15&margin-h=15" />
-</p>
 
 ## GitHub Stats
 
